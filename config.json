@@ -1,0 +1,124 @@
+{
+  "public": {
+    "default": {
+      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/XtxGBpT4fa3dwuocMTe5b5/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/XtxGBpT4fa3dwuocMTe5b5/graphql",
+      "commerce-assets-enabled": false,
+      "headers": {
+        "all": {
+          "Store": "default"
+        },
+        "cs": {
+          "Magento-Website-Code": "acerbis_group_eu",
+          "Magento-Store-Code": "acerbis_group_eu",
+          "Magento-Store-View-Code": "acerbis_group_eu_it",
+          "Magento-Customer-Group": "0"
+        }
+      },
+      "analytics": {
+        "base-currency-code": "USD",
+        "environment": "Testing",
+        "environment-id": "XtxGBpT4fa3dwuocMTe5b5",
+        "store-code": "acerbis_group",
+        "store-id": "acerbis_group",
+        "store-name": "Acerbis Group UK",
+        "store-url": "https://coresaas-subgraph-external:8000/XtxGBpT4fa3dwuocMTe5b5/",
+        "store-view-code": "acerbis_group_en",
+        "store-view-id": "acerbis_group_en",
+        "store-view-name": "Acerbis Group UK",
+        "website-code": "acerbis_group",
+        "website-id": "acerbis_group",
+        "website-name": "Acerbis Group"
+      },
+      "plugins": {
+        "picker": {
+          "rootCategory": "2"
+        }
+      }
+    },
+    "/en-uk/": {
+      "headers": {
+        "all": {
+          "Store": "en-uk"
+        },
+        "cs": {
+          "Magento-Website-Code": "acerbis_group_uk",
+          "Magento-Store-Code": "acerbis_group_uk",
+          "Magento-Store-View-Code": "acerbis_group_uk_en"
+        }
+      }
+    },
+    "/en-us/": {
+      "headers": {
+        "all": {
+          "Store": "en-us"
+        },
+        "cs": {
+          "Magento-Website-Code": "acerbis_group_us",
+          "Magento-Store-Code": "acerbis_group_us",
+          "Magento-Store-View-Code": "acerbis_group_us_en"
+        }
+      }
+    },
+    "/es-us/": {
+      "headers": {
+        "all": {
+          "Store": "es-us"
+        },
+        "cs": {
+          "Magento-Website-Code": "acerbis_group_us",
+          "Magento-Store-Code": "acerbis_group_us",
+          "Magento-Store-View-Code": "acerbis_group_us_es"
+        }
+      }
+    },
+    "/fr_eu/": {
+      "headers": {
+        "all": {
+          "Store": "fr_eu"
+        },
+        "cs": {
+          "Magento-Website-Code": "acerbis_group_eu",
+          "Magento-Store-Code": "acerbis_group_eu",
+          "Magento-Store-View-Code": "acerbis_group_eu_fr"
+        }
+      }
+    },
+    "/it_eu/": {
+      "headers": {
+        "all": {
+          "Store": "it_eu"
+        },
+        "cs": {
+          "Magento-Website-Code": "acerbis_group_eu",
+          "Magento-Store-Code": "acerbis_group_eu",
+          "Magento-Store-View-Code": "acerbis_group_eu_it"
+        }
+      }
+    },
+    "/de_eu/": {
+      "headers": {
+        "all": {
+          "Store": "de_eu"
+        },
+        "cs": {
+          "Magento-Website-Code": "acerbis_group_eu",
+          "Magento-Store-Code": "acerbis_group_eu",
+          "Magento-Store-View-Code": "acerbis_group_eu_de"
+        }
+      }
+    },
+    "/es_eu/": {
+      "headers": {
+        "all": {
+          "Store": "es_eu"
+        },
+        "cs": {
+          "Magento-Website-Code": "acerbis_group_eu",
+          "Magento-Store-Code": "acerbis_group_eu",
+          "Magento-Store-View-Code": "acerbis_group_eu_es"
+        }
+      }
+    }
+  }
+}
