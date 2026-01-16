@@ -1,0 +1,8 @@
+mountpoints:
+  /:
+    url: https://content.da.live/codeland-org/demo-storefront/
+    type: markup
+
+folders:
+  /products/: /products/default
+  /categories/: /categories/default
